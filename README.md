@@ -1,30 +1,21 @@
-# Portfolio website
+# 👋 Hi, I'm Vanshika
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Welcome to my **AI Product & Engineering Portfolio**.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/vanshisethi30-8447s-projects/v0-portfolio-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/irS8SRJHeoG)
+This repository showcases a curated set of projects across **Generative AI, machine learning systems, cloud-native architectures, and product-led engineering**. Each project reflects hands-on execution, strong system design, and a focus on solving real-world problems at scale.
 
-## Overview
+## 🔍 What you'll find here
+- **Generative AI & LLMs**: RAG pipelines, embeddings, vector search, prompt engineering
+- **Machine Learning Systems**: model evaluation, experimentation, and performance optimization
+- **Cloud & Backend Engineering**: AWS-based architectures, scalable APIs, data pipelines
+- **Product Thinking**: problem definition, metrics, trade-offs, and business impact
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🎯 Focus
+I specialize in building **production-ready AI-powered products**, bridging the gap between **technical depth and product strategy**. My work emphasizes scalability, usability, and measurable outcomes.
 
-## Deployment
+## 🛠 Tech Stack (varies by project)
+Python • SQL • AWS • Docker • APIs • ML/LLMs • Data Pipelines • Experimentation
 
-Your project is live at:
+---
 
-**[https://vercel.com/vanshisethi30-8447s-projects/v0-portfolio-website](https://vercel.com/vanshisethi30-8447s-projects/v0-portfolio-website)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/irS8SRJHeoG](https://v0.app/chat/irS8SRJHeoG)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+📌 *Each project includes clear documentation, architecture diagrams, and key learnings where applicable.*
